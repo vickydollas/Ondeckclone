@@ -35,3 +35,13 @@ body{
 .img-sizing2{
     width: 150px;
 }
+@media(max-width: 576px){
+    .container-sizing{
+        padding: 0;
+    }    
+}
+/* @media(max-width: 768px){
+    .container-sizing{
+        padding: 0;
+    }
+} */
