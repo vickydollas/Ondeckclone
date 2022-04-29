@@ -1,0 +1,37 @@
+body{
+    background-color: #F3EDE5;
+}
+.nav-colour{
+    color: black;
+}
+.container-sizing{
+    padding: 0 10rem;
+}
+.navlink-colour{
+    color: black;
+}
+.nav-text{
+    font-weight: 500;
+    font-size: small;
+}
+.victor{
+    display: block;
+}
+.container-sizing2{
+    margin-top: 8rem;
+}
+.btn-colour{
+    background-color: #143416;
+    color: white;
+}
+.para-font{
+    font-size: small;
+}
+.img-sizing{
+    height: 19rem;
+    /* position: relative; */
+    /* left: 100px; */
+}   
+.img-sizing2{
+    width: 150px;
+}
